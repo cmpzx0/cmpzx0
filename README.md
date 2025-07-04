@@ -8,26 +8,45 @@
 
 ## 🛠️ Technologien & Fachgebiete
 
-- 🔐 **Cybersecurity**
-- ⚙️ **Low-Level-Programmierung (C/C++)**
-- 🛠️ **DevSecOps / CI/CD / Sichere Infrastrukturen**
+- 🔐 **Cybersecurity / Offensive Security**
+- ⚙️ **Low-Level-Programmierung (C, C++, Assembly, Rust)**
+- 🛠️ **DevSecOps / CI/CD / Sichere Infrastrukturen (NixOS, K8s, Docker)**
 - 🧠 **System-Interna (Windows/Linux), Virtualisierung, OS-Entwicklung**
+
+---
+
+## 🧰 Tech-Stack & Tools
+
+**Sprachen**  
+`C` `C++` `Rust` `Go` `Python` `Bash`
+
+**Offensive Tools**  
+`Burp Suite` `nmap` `Wireshark` `IDA` `x64dbg`
+
+**DevSecOps & Infrastruktur**  
+`NixOS` `Docker` `Kubernetes` `GitLab CI/CD`
+`Proxmox` `KVM`
+`GNU/Linux` (Kali, Arch, Void, Rocky, AlmaLinux)  
+`Windows 10/11`
+
+**Weitere Tools**  
+`Git` `LeetCode` 
 
 ---
 
 ## 💻 Meine Schwerpunkte
 
-- 🏗️ Aufbau von technischer Infrastruktur (lokal & Cloud)
-- 🧠 Lösen von logischen Problemen und Sicherheitsherausforderungen
-- 🧰 Entwicklung eigener Security-Tools in **C++**
-- 📚 Lernen, Experimentieren & kontinuierliche Weiterentwicklung
+- 🏗️ Aufbau sicherer, skalierbarer technischer Infrastruktur (lokal & Cloud)
+- 🧠 Lösen komplexer logischer und sicherheitsrelevanter Probleme
+- ⚙️ Entwicklung kreativer Infrastruktur mit Fokus auf DevOps, Automatisierung, Monitoring (Prometheus, Grafana) und Systemhärtung
+- 🔬 Analyse von Binärdateien, Reverse Engineering & Obfuscation-Techniken
 
 ---
 
 ## 📫 Kontakt
 
 - 🌐 [GitHub-Projekte](https://github.com/cmpzx0?tab=repositories)
-- 🧠 [LeetCode Profil](https://leetcode.com/u/cmpzx0dd/)
+- 🧠 [LeetCode-Profil](https://leetcode.com/u/cmpzx0dd/)
 - ✉️ kontakt.email.cmpzx@gmail.com
 
 ---
