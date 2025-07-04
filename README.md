@@ -10,14 +10,14 @@
 
 - 🔐 **Cybersecurity**
 - ⚙️ **Low-Level-Programmierung (C/C++)**
-- 🛠️ **DevSecOps / CI-CD / Sichere Infrastrukturen**
+- 🛠️ **DevSecOps / CI/CD / Sichere Infrastrukturen**
 - 🧠 **System-Interna (Windows/Linux), Virtualisierung, OS-Entwicklung**
 
 ---
 
 ## 💻 Meine Schwerpunkte
 
-- 🏗️ Aufbau von Infrastruktur
+- 🏗️ Aufbau von technischer Infrastruktur (lokal & Cloud)
 - 🧠 Lösen von logischen Problemen und Sicherheitsherausforderungen
 - 🧰 Entwicklung eigener Security-Tools in **C++**
 - 📚 Lernen, Experimentieren & kontinuierliche Weiterentwicklung
@@ -26,7 +26,8 @@
 
 ## 📫 Kontakt
 
-- 🌐 [Meine GitHub-Projekte](https://github.com/cmpzx0?tab=repositories)
+- 🌐 [GitHub-Projekte](https://github.com/cmpzx0?tab=repositories)
+- 🧠 [LeetCode Profil](https://leetcode.com/u/cmpzx0dd/)
 - ✉️ kontakt.email.cmpzx@gmail.com
 
 ---
