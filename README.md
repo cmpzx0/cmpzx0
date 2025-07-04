@@ -19,7 +19,7 @@
 
 - 🏗️ Aufbau von Infrastruktur
 - 🧠 Lösen von logischen Problemen und Sicherheitsherausforderungen
-- 🧰 Entwicklung eigener Security-Tools in **C++** / **Rust**
+- 🧰 Entwicklung eigener Security-Tools in **C++**
 - 📚 Lernen, Experimentieren & kontinuierliche Weiterentwicklung
 
 ---
